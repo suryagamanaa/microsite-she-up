@@ -1,0 +1,10 @@
+{
+  "description": "Creates and manages personalized microsites to showcase content effectively, enhancing online presence for businesses and individuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
